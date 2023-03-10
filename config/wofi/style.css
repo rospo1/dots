@@ -1,0 +1,42 @@
+window {
+margin: 5px;
+border: 2px solid #F38BA8;
+background-color: #1E1E2E;
+font-family: Lekton Nerd Font;
+font-size: 12pt;
+}
+
+#input {
+margin: 5px;
+border: none;
+background-color: #424266;
+}
+
+#inner-box {
+margin: 5px;
+border: none;
+background-color: #1E1E2E;
+}
+
+#outer-box {
+margin: 5px;
+border: none;
+background-color: #1E1E2E;
+}
+
+#scroll {
+margin: 5px;
+border: none;
+background-color: #1E1E2E;
+}
+
+#text {
+margin: 5px;
+border: none;
+background-color: #1E1E2E;
+} 
+
+#text:selected {
+background-color: rgba(0.0, 0.0, 0.0, 0.0);
+}
+

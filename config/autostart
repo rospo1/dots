@@ -1,0 +1,3 @@
+waybar &
+wbg ~/.config/walls/nyc.jpg &
+dunst &
